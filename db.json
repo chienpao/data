@@ -57,5 +57,17 @@
 			"title": "Research Assistant\nNATIONAL CHENGCHI UNIVERSITY\n2009/09 - 2011/06",
 			"description": "Develop customized Android launcher app for E-Book."
 		}
+	],
+	"education":[
+		{
+			"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
+			"title": "NATIONAL CHENGCHI UNIVERSITY\n2009/09 - 2011/07",
+			"description": "Master's program in Computer Science"
+		},
+		{
+			"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
+			"title": "TAMKANG UNIVERSITY\n2005/09 - 2009/06",
+			"description": "Department of Computer Science & Information Engineering"
+		}
 	]
 }
