@@ -1,10 +1,9 @@
 {
 	"data": [
-
 		{
 			"image": "profile",
-				"title": "Chueh Chien-Pao From Dropbox",
-				"description": "I'm from Taiwan. I like to keep trying new things and challenging myself."
+			"title": "Chueh Chien-Pao From Dropbox",
+			"description": "I'm from Taiwan. I like to keep trying new things and challenging myself."
 		},
 		{
 			"image": "tink_labs_pic"
