@@ -1,5 +1,5 @@
 {
-	"data": [
+	"intro": [
 		{
 			"image": "http://chienpao.com/wordpress/material/chienpao.jpg",
 			"title": "Chueh Chien-Pao",
@@ -39,6 +39,23 @@
 		},
 		{
 			"image": "https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/388/758/388758-7ce060983a47636f65fdbd29b0aeeb950b391b6d.jpg"
+		}
+	],
+	"experience":[
+		{
+			"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
+			"title": "Android Engineer\nMIGME LIMITED COMPANY\n2015/09 - Present",
+			"description": "Develop Android App for LoveByte and MiniMe."
+		},
+		{
+			"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
+			"title": "Senior Software Engineer\nASUS COMPUTER INC.\n2013/01 - 2015/09",
+			"description": "Develop Linux kernel driver device and Android App."
+		},
+		{
+			"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
+			"title": "Research Assistant\nNATIONAL CHENGCHI UNIVERSITY\n2009/09 - 2011/06",
+			"description": "Develop customized Android launcher app for E-Book."
 		}
 	]
 }
