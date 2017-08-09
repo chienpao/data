@@ -1,44 +1,44 @@
 {
 	"data": [
 		{
-			"image": "profile",
-			"title": "Chueh Chien-Pao From Dropbox",
+			"image": "http://chienpao.com/wordpress/material/chienpao.jpg",
+			"title": "Chueh Chien-Pao",
 			"description": "I'm from Taiwan. I like to keep trying new things and challenging myself."
 		},
 		{
-			"image": "tink_labs_pic"
+			"image": "https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/388/758/388758-7ce060983a47636f65fdbd29b0aeeb950b391b6d.jpg"
 		},
 		{
-			"image": "tink_labs_logo",
+			"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
 			"title": "E-mail",
 			"description": "chienpao@chienpao.com"
 		},
 		{
-			"image": "tink_labs_pic"
+			"image": "https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/388/758/388758-7ce060983a47636f65fdbd29b0aeeb950b391b6d.jpg"
 		},
 		{
-			"image": "tink_labs_logo",
+			"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
 			"title": "Mobile",
 			"description": "+886952605130"
 		},
 		{
-			"image": "tink_labs_pic"
+			"image": "https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/388/758/388758-7ce060983a47636f65fdbd29b0aeeb950b391b6d.jpg"
 		},
 		{
-			"image": "tink_labs_logo",
+			"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
 			"title": "Github",
 			"description": "https://github.com/chienpao"
 		},
 		{
-			"image": "tink_labs_pic"
+			"image": "https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/388/758/388758-7ce060983a47636f65fdbd29b0aeeb950b391b6d.jpg"
 		},
 		{
-			"image": "tink_labs_logo",
+			"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
 			"title": "Website",
 			"description": "http://chienpao.com"
 		},
 		{
-			"image": "tink_labs_pic"
+			"image": "https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/388/758/388758-7ce060983a47636f65fdbd29b0aeeb950b391b6d.jpg"
 		}
 	]
 }
