@@ -62,6 +62,21 @@
 				"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
 				"title": "Research Assistant\nNATIONAL CHENGCHI UNIVERSITY\n2009/09 - 2011/06",
 				"description": "Develop customized Android launcher app for E-Book."
+			},
+			{
+				"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
+				"title": "Android Engineer\nMIGME LIMITED COMPANY\n2015/09 - Present",
+				"description": "Develop Android App for LoveByte and MiniMe."
+			},
+			{
+				"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
+				"title": "Senior Software Engineer\nASUS COMPUTER INC.\n2013/01 - 2015/09",
+				"description": "Develop Linux kernel driver device and Android App."
+			},
+			{
+				"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
+				"title": "Research Assistant\nNATIONAL CHENGCHI UNIVERSITY\n2009/09 - 2011/06",
+				"description": "Develop customized Android launcher app for E-Book."
 			}
 		]
 	},
@@ -77,6 +92,96 @@
 				"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
 				"title": "TAMKANG UNIVERSITY\n2005/09 - 2009/06",
 				"description": "Department of Computer Science & Information Engineering"
+			},
+			{
+				"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
+				"title": "NATIONAL CHENGCHI UNIVERSITY\n2009/09 - 2011/07",
+				"description": "Master's program in Computer Science"
+			},
+			{
+				"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
+				"title": "TAMKANG UNIVERSITY\n2005/09 - 2009/06",
+				"description": "Department of Computer Science & Information Engineering"
+			},
+			{
+				"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
+				"title": "NATIONAL CHENGCHI UNIVERSITY\n2009/09 - 2011/07",
+				"description": "Master's program in Computer Science"
+			},
+			{
+				"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAeuAAAAJDgwMTM1NjM3LWY3NjktNGNiNi05ZTRhLWU2YjY3MzYzZTcxYw.png",
+				"title": "TAMKANG UNIVERSITY\n2005/09 - 2009/06",
+				"description": "Department of Computer Science & Information Engineering"
+			}
+		]
+	},
+	"portfolio":{
+		"response" : 200,
+		"portfolio":[
+			{
+				"image": "http://lovebyte.us/assets/lovebyteicon.png_378x365-e7356451deee1dfee0bed3bb3e29a882.png",
+				"title": "LoveByte",
+				"description": "LoveByte is a messenger and digital scrapbook of happy memories between you and your loved"
+			},
+			{
+				"image": "https://lh4.ggpht.com/8dYA6tzjlAGaj3O1WTMKR_GVfnuuSQBsTW5Czr6d8fQmge4O1PGOV38YxDn8_eCZ0w3c=w300",
+				"title": "MiniMe",
+				"description": "Create your very own personalized cartoon for your smartphone"
+			},
+			{
+				"image": "http://lovebyte.us/assets/lovebyteicon.png_378x365-e7356451deee1dfee0bed3bb3e29a882.png",
+				"title": "LoveByte",
+				"description": "LoveByte is a messenger and digital scrapbook of happy memories between you and your loved"
+			},
+			{
+				"image": "https://lh4.ggpht.com/8dYA6tzjlAGaj3O1WTMKR_GVfnuuSQBsTW5Czr6d8fQmge4O1PGOV38YxDn8_eCZ0w3c=w300",
+				"title": "MiniMe",
+				"description": "Create your very own personalized cartoon for your smartphone"
+			},
+			{
+				"image": "http://lovebyte.us/assets/lovebyteicon.png_378x365-e7356451deee1dfee0bed3bb3e29a882.png",
+				"title": "LoveByte",
+				"description": "LoveByte is a messenger and digital scrapbook of happy memories between you and your loved"
+			},
+			{
+				"image": "https://lh4.ggpht.com/8dYA6tzjlAGaj3O1WTMKR_GVfnuuSQBsTW5Czr6d8fQmge4O1PGOV38YxDn8_eCZ0w3c=w300",
+				"title": "MiniMe",
+				"description": "Create your very own personalized cartoon for your smartphone"
+			}
+		]
+	},
+	"cert":{
+		"response" : 200,
+		"cert":[
+			{
+				"image": "http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43bdf1.png",
+				"title": "Google Associate Android Developer",
+				"description": "Google Certification"
+			},
+			{
+				"image": "http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43bdf1.png",
+				"title": "Google Associate Android Developer",
+				"description": "Google Certification"
+			},
+			{
+				"image": "http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43bdf1.png",
+				"title": "Google Associate Android Developer",
+				"description": "Google Certification"
+			},
+			{
+				"image": "http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43bdf1.png",
+				"title": "Google Associate Android Developer",
+				"description": "Google Certification"
+			},
+			{
+				"image": "http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43bdf1.png",
+				"title": "Google Associate Android Developer",
+				"description": "Google Certification"
+			},
+			{
+				"image": "http://www.stickpng.com/assets/thumbs/580b57fbd9996e24bc43bdf1.png",
+				"title": "Google Associate Android Developer",
+				"description": "Google Certification"
 			}
 		]
 	}
